@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Aramis neto</title>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&display=swap" rel="stylesheet">
+        
+    <link rel="stylesheet" href="css/reset.css"> 
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+    <body>
+        <header>
+
+            <nav>
+                <a href=""><span></span>Skills</a>
+                <a href=""><span></span>Projetos</a>
+                <a href=""><span></span>Sobre</a>
+                <a href=""><span></span>Contanto</a>
+                <a id="button" href="">Download CV</a>
+            </nav>
+
+        </header>
+    </body>
+</html>
